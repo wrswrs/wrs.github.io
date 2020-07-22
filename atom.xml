@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-22T03:29:37.150Z</updated>
+  <updated>2020-07-22T03:34:55.715Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://yoursite.com/2018/04/03/test/"/>
     <id>http://yoursite.com/2018/04/03/test/</id>
     <published>2018-04-03T03:14:26.000Z</published>
-    <updated>2020-07-22T03:29:37.150Z</updated>
+    <updated>2020-07-22T03:34:55.715Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>我的第一篇博客</p>]]></content>
     
     <summary type="html">
     
-      test,test
+      我的第一篇博客
     
     </summary>
     
