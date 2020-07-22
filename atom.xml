@@ -5,9 +5,9 @@
   <subtitle>王小柯的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://wrswrs.github.io/"/>
   <updated>2020-07-22T03:34:55.715Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://wrswrs.github.io/</id>
   
   <author>
     <name>王小柯</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2018/04/03/test/"/>
-    <id>http://yoursite.com/2018/04/03/test/</id>
+    <link href="https://wrswrs.github.io/2018/04/03/test/"/>
+    <id>https://wrswrs.github.io/2018/04/03/test/</id>
     <published>2018-04-03T03:14:26.000Z</published>
     <updated>2020-07-22T03:34:55.715Z</updated>
     
@@ -32,12 +32,12 @@
     </summary>
     
     
-      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://wrswrs.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
+      <category term="Test" scheme="https://wrswrs.github.io/tags/Test/"/>
     
-      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+      <category term="vue" scheme="https://wrswrs.github.io/tags/vue/"/>
     
   </entry>
   
