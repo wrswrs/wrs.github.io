@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wrswrs.github.io/"/>
-  <updated>2020-07-22T03:34:55.715Z</updated>
+  <updated>2020-07-23T01:39:15.922Z</updated>
   <id>https://wrswrs.github.io/</id>
   
   <author>
@@ -17,22 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://wrswrs.github.io/2018/04/03/test/"/>
-    <id>https://wrswrs.github.io/2018/04/03/test/</id>
-    <published>2018-04-03T03:14:26.000Z</published>
-    <updated>2020-07-22T03:34:55.715Z</updated>
+    <title>使用Hexo+GitHub搭建博客</title>
+    <link href="https://wrswrs.github.io/2020/07/20/test/"/>
+    <id>https://wrswrs.github.io/2020/07/20/test/</id>
+    <published>2020-07-20T03:15:00.000Z</published>
+    <updated>2020-07-23T01:39:15.922Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>我的第一篇博客</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote><p>📰博客 —— 可能在如今这个互联网发达的大环境中，已经慢慢很少有人关注。不如那些社交平台可以快速的发布文章、图片、视频；并且可以快速的获取关注与点赞。博客这种慢生活形式已经渐渐淡出人们的视线。</p></blockquote><p>👦然而我不这样认为，我觉得能在互联网中拥有一个自己的域名，自己的博客，自己的一片安静的空间，也是一件很有意义的事情。<br>而且身为一个💻程序员，更应该写写自己的技术文章，为自己的学习历程留下痕迹。</p><p>其实几天前我就开始</p><div class="note danger default">            <p>本篇文章全部自己码字、截图，未经本人授权许可，谢绝转载和二次创作！</p>          </div><h3 id="初识Hexo"><a href="#初识Hexo" class="headerlink" title="初识Hexo"></a>初识Hexo</h3><ul><li>1</li></ul>]]></content>
     
     <summary type="html">
     
-      我的第一篇博客
+      搭建一个属于自己的博客
     
     </summary>
     
     
-      <category term="前端" scheme="https://wrswrs.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="随笔分享" scheme="https://wrswrs.github.io/categories/%E9%9A%8F%E7%AC%94%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="建站教程" scheme="https://wrswrs.github.io/categories/%E9%9A%8F%E7%AC%94%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E6%95%99%E7%A8%8B/"/>
     
     
       <category term="Test" scheme="https://wrswrs.github.io/tags/Test/"/>
