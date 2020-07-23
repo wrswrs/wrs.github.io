@@ -3671,7 +3671,7 @@ img {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #ff727e;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -4161,7 +4161,7 @@ img {
   background-color: #ff7242;
 }
 #vcomment textarea {
-  background: url("/image/comment_bg.png") 100% 100% no-repeat;
+  background: url("/img/comment_bg.png") 100% 100% no-repeat;
 }
 #vcomment .vimg {
   -webkit-transition: all 0.3s;
